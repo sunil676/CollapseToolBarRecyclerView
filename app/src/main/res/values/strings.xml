@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CollapseToolBarRecyclerView</string>
+    <string name="collaspe_tool_bar">Collpase ToolBar</string>
+    <string name="quick_retrun_toolbar">Quick Retrun ToolBar</string>
+</resources>
