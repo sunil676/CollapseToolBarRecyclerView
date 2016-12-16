@@ -1,0 +1,2 @@
+# CollapseToolBarRecyclerView
+Animated collapsing toolbar
